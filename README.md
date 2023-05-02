@@ -5,10 +5,8 @@
 To develop an LSTM-based model for recognizing the named entities in the text.
 
 ## Problem Statement and Dataset
-
-## Neural Network Model
-
-Include the neural network model diagram.
+we propose a deep neural network (NN) architecture, namely the bidirectional Long-Short Term Memory (Bi-LSTM) based model for NER. Based on existing gold standard datasets, we evaluated and compared several models for identifying biomedical named entities. Our deep NN based Bi-LSTM model using word and character level embeddings outperforms CRF and Bi-LSTM using only word level embeddings significantly.
+![235590560-1cdbd843-c012-426d-bd5e-4c7188ff18ba](https://user-images.githubusercontent.com/94677128/235594071-f84ba768-7d4b-40a7-abe0-452012d41b97.png)
 
 ## DESIGN STEPS
 
